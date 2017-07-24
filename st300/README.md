@@ -22,7 +22,7 @@ import (
 	"log"
 
 	"github.com/davecgh/go-spew/spew"
-	"github.com/larixsource/suntech/st300"
+	"github.com/multiwireless/suntech/st300"
 )
 
 func main() {

@@ -8,8 +8,8 @@ import (
 	"io"
 	"strings"
 
-	"github.com/larixsource/suntech/lexer"
-	"github.com/larixsource/suntech/st"
+	"github.com/multiwireless/suntech/lexer"
+	"github.com/multiwireless/suntech/st"
 )
 
 var ErrUnknownHdr = errors.New("unknown HDR")

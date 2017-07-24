@@ -6,7 +6,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/larixsource/suntech/st"
+	"github.com/multiwireless/suntech/st"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

@@ -1,7 +1,7 @@
 package st300
 
 import (
-	"github.com/larixsource/suntech/st"
+	"github.com/multiwireless/suntech/st"
 )
 
 // MsgType is the type of command or report of a Msg

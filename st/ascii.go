@@ -7,7 +7,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/larixsource/suntech/lexer"
+	"github.com/multiwireless/suntech/lexer"
 )
 
 const (

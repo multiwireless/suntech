@@ -3,8 +3,8 @@ package st300
 import (
 	"errors"
 
-	"github.com/larixsource/suntech/lexer"
-	"github.com/larixsource/suntech/st"
+	"github.com/multiwireless/suntech/lexer"
+	"github.com/multiwireless/suntech/st"
 )
 
 var ErrInvalidIO = errors.New("invalid IO")

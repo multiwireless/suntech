@@ -5,8 +5,8 @@ import (
 
 	"bytes"
 
-	"github.com/larixsource/suntech/lexer"
-	"github.com/larixsource/suntech/st"
+	"github.com/multiwireless/suntech/lexer"
+	"github.com/multiwireless/suntech/st"
 )
 
 type EventReport struct {

@@ -3,7 +3,7 @@ package st300
 import (
 	"testing"
 
-	"github.com/larixsource/suntech/st"
+	"github.com/multiwireless/suntech/st"
 	"github.com/stretchr/testify/assert"
 )
 
